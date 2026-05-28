@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎁 Giftly - Refined Gift Ordering & Customization System
 
 Giftly is an ultra-premium, full-stack, SaaS-style **Gift Hamper Customization & Fulfillment** web application built using **Next.js 14 (App Router)**, **TypeScript**, and **Tailwind CSS v4**.
@@ -105,3 +106,6 @@ graph TD
 
 ---
 *Crafted with 💝 by the Giftly Development Team.*
+=======
+# Gift-Ordering-System
+>>>>>>> 6ca2175edc855dc9e4455f5abb40be7d2060c67a
